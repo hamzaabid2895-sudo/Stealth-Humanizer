@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-jinja2
-python-dotenv
-groq
-openai
-anthropic
-aiohttp
-python-multipart
